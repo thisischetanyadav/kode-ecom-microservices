@@ -3,9 +3,9 @@ spring:
     name: user-service
 
   datasource:
-    url: jdbc:mysql://localhost:3306/kodeecom
+    url: jdbc:mysql://localhost:3306/kodeecom 
     username: root
-    password: Nikhil@123
+    password: 12345
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
